@@ -251,9 +251,7 @@ REACT_APP_API_URL=http://localhost:8000/api/v1
 3. Push branch: `git push origin feature/your-feature`
 4. Submit pull request
 
-## License
 
-MIT
 
 ## Support
 
